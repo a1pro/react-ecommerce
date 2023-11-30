@@ -1,0 +1,34 @@
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer__section {
+    margin-bottom: 20px;
+  }
+  
+  .footer__section h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .footer__section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer__section li {
+    margin-bottom: 5px;
+  }
+  
+  .footer__socialIcons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  img.icons-img {
+    width: 40px;
+}  
